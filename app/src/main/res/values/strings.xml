@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First Android App</string>
+    <string name="action_settings">Settings</string>
+    <string name="android_item">Android</string>
+    <string name="iOS_item">iOS</string>
+</resources>
